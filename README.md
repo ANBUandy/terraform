@@ -1,2 +1,4 @@
-# terraform
-Terraform
+# infrastructure
+
+Terraform infrastructure as code
+

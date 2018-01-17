@@ -1,0 +1,10 @@
+# terraform
+.terraform
+output.bin
+*.tfstate*
+
+#vim
+*.swp
+
+# zip files
+*.zip
