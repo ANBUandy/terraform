@@ -49,5 +49,6 @@ chown -R dexion:dexion /home/dexion
 
 # install python if system is ubuntu
 if which apt-get; then
-    apt-get install python
+    apt-get update
+    apt-get install tmux
 fi
